@@ -1,0 +1,12 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "Nodejs Örnekleri İlk Deneme",
+  "main": "index.js",
+  "bin": {"safak-demo":"index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bekir Şafak",
+  "license": "ISC"
+}
